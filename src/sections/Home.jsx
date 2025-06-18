@@ -18,7 +18,7 @@ export const Home = () => {
         <div className="w-72 h-72 bg-indigo-100 rounded-full flex items-center justify-center" style={{
             clipPath: "polygon(60% 0%, 100% 40%, 90% 70%, 70% 100%, 20% 90%, 0% 40%, 20% 10%)"
           }}>
-          <img src={"/public/imagen.jpg"} alt="Santiago" className="w-48 h-48 object-cover" style={{
+          <img src="/imagen.jpg" alt="Santiago" className="w-48 h-48 object-cover" style={{
             clipPath: "polygon(60% 0%, 100% 20%, 90% 70%, 70% 100%, 20% 90%, 0% 40%, 20% 10%)"
           }} />
         </div>
